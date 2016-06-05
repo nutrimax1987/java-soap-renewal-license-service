@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/JournalDevWebLogging" privileged="true"
+	antiResourceLocking="false" antiJARLocking="false">
+	<Resource name="jdbc/MaximDB" auth="Container" type="javax.sql.DataSource"
+		driverClassName="org.postgresql.Driver" url="java:/PostgresDS" />
+</Context> 

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" id="WebApp_ID" version="2.5">
+  <display-name>Amnetgov</display-name>
+  <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+  </welcome-file-list>
+  
+<!--      <security-constraint>
+        <display-name>SecurityConstraint</display-name>
+        <web-resource-collection>
+            <web-resource-name>Secure Area</web-resource-name>
+            <url-pattern>/Amnetgov</url-pattern>
+            
+                JSR-109 specifies that http-method POST must be used.
+                If we include GET here, access to the WSDL will also be
+                protected, otherwise not.
+           
+            <http-method>POST</http-method>
+        </web-resource-collection>
+        
+            Plain SSL and mutual authentication both require CONFIDENTIAL
+            transport-guarantee to be configured.
+       
+        <user-data-constraint>
+            <transport-guarantee>CONFIDENTIAL</transport-guarantee>
+        </user-data-constraint>
+    </security-constraint> 
+    -->
+    
+</web-app>
