@@ -10,7 +10,12 @@ ______________________________________________
  sent to [RUNT - Ministerio de Transporte de Colombia](https://www.mintransporte.gov.co/).
 
 #### Technologies: ####
- Java, [WildFly 9](https://www.wildfly.org/news/2015/07/02/WildFly9-Final-Released/), PostgreSQL, JAX-WS - Java EE, Maven, [SOAP](https://simple.wikipedia.org/wiki/SOAP_(protocol))
+- [x] Java, 
+- [x] [WildFly 9](https://www.wildfly.org/news/2015/07/02/WildFly9-Final-Released/),
+- [x] PostgreSQL, 
+- [x] JAX-WS - Java EE, 
+- [x] Maven, 
+- [x] [SOAP](https://simple.wikipedia.org/wiki/SOAP_(protocol))
 
 
 ® [VVAMIR](http://www.vvamir.com/) & Maxim Livshitz (2015)
