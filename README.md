@@ -13,4 +13,4 @@ ______________________________________________
  Java, [WildFly 9](https://www.wildfly.org/news/2015/07/02/WildFly9-Final-Released/), PostgreSQL, JAX-WS - Java EE, Maven, [SOAP](https://simple.wikipedia.org/wiki/SOAP_(protocol))
 
 
-```® [VVAMIR](http://www.vvamir.com/) & Maxim Livshitz (2015) ```
+® [VVAMIR](http://www.vvamir.com/) & Maxim Livshitz (2015)
