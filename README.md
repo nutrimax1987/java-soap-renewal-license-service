@@ -15,4 +15,4 @@ ______________________________________________
 - [x] [SOAP](https://simple.wikipedia.org/wiki/SOAP_(protocol))
 
 
-® [VVAMIR](http://www.vvamir.com/) ``` & Maxim Livshitz (2015) ```
+```® ``` [VVAMIR](http://www.vvamir.com/) ``` & Maxim Livshitz (2015) ```
